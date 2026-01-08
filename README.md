@@ -201,7 +201,7 @@ Total: 4,177 samples, ~5% anomalies
 **[allkinn]**  
 Physics Student | ML Engineer | IoT Specialist
 
-📧 [Email] | 💼 [LinkedIn] | 🐙 [@allkinn]
+📧 [Email] | 💼 [LinkedIn] | 🐙 [allkinn](https://github.com/allkinn/sensor-anomaly-detection.git)
 
 ## 📄 License
 
