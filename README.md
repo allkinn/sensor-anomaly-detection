@@ -154,14 +154,21 @@ Total: 4,177 samples, ~5% anomalies
 
 ## 📈 Visualizations
 
-### Data with Anomalies
-![Data](data_visualization.png)
+### Data Visualization
+![Data with Anomalies](data_visualization.png)
+*30 days of sensor data - red points indicate anomalies*
 
-### Confusion Matrix
+### Model Performance
 ![Confusion Matrix](confusion_matrix.png)
+*Confusion matrix showing detection accuracy*
 
 ### Model Comparison
-![Comparison](model_comparison.png)
+![Model Comparison](model_comparison.png)
+*Performance comparison across 3 models*
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+*Key features driving anomaly detection*
 
 ## 💼 Business Impact
 
@@ -196,9 +203,27 @@ Total: 4,177 samples, ~5% anomalies
 - Business context matters (false alarm cost vs missed detection)
 - Real-time requirements constrain model choice
 
+## ⚠️ Limitations & Future Work
+
+**Current Limitations:**
+- Simulated data (not real sensor readings)
+- Threshold tuning needed for production
+- No real-time streaming implementation
+- Model retraining not automated
+
+**Learning Journey:**
+This is a learning project demonstrating ML workflow:
+data → training → evaluation → deployment considerations.
+
+For production use, would require:
+- Real sensor integration
+- Robust error handling  
+- Monitoring & alerting system
+- Model versioning & A/B testing
+
 ## 👤 Author
 
-**[allkinn](https://github.com/allkinn)**  
+**[@allkinn](https://github.com/allkinn)**  
 Physics Student | ML Engineer | IoT Specialist
 
 📧 [Email] | 💼 [LinkedIn] | 🐙 [allkinn](https://github.com/allkinn/sensor-anomaly-detection.git)
