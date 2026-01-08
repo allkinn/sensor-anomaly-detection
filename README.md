@@ -209,4 +209,4 @@ MIT License
 
 ---
 
-**⭐ Star if useful | 🐛 [Report issues](issues) | 💬 [Discussions](discussions)**
+**⭐ Star if useful | 🐛 [Report issues](https://github.com/allkinn/sensor-anomaly-detection/issues)
